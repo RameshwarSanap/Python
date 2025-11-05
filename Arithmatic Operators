@@ -1,0 +1,21 @@
+"""Arithmatic Operators : Used for Mathematiocal Calculation."""
+
+
+
+print(34+34) //Addition
+print(34-34) //Subtraction
+print(34*34) //Multiplication
+print(34/3) // Division
+print(34%3) //Modul
+print(2**3) //Exponentiation
+
+
+///output 
+68
+0
+1156
+11.333333333333334
+1
+8 
+
+//
